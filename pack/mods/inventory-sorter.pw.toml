@@ -1,0 +1,15 @@
+name = "Inventory-Sorter"
+filename = "inventorysorter-fabric-3.0.2+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/meza/Inventory-Sorter/releases/download/v3.0.2/inventorysorter-fabric-3.0.2%2Bmc26.3.jar"
+hash-format = "sha256"
+hash = "05c54a9a3242da32e25848f12fd383bb0d2ffeb686b54cc79f0da8773df7b413"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^inventorysorter-fabric-.*\\+mc26\\.3\\.jar$"
+slug = "meza/Inventory-Sorter"
+tag = "v3.0.2"

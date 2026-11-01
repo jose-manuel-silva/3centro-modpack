@@ -1,0 +1,13 @@
+name = "3 centro"
+author = "jose"
+version = "26.3-3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31281c1d2fa08994084d088ab506d48c34d4d4f8a81bb1855be65a6fe7c5312f"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
